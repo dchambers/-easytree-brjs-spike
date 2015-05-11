@@ -1,0 +1,1 @@
+{	Version: "v1.0-RC1-0.g6914d41",	BuildDate: "05 May 2015 11:41 BST",	DistType: "bladerunnerjs",	BuildHostname: "Andys-Mac-3"}

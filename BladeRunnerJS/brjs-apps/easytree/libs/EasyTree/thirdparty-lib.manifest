@@ -1,0 +1,4 @@
+depends: jquery
+js: jquery.easytree.js
+css: skin-lion/ui.easytree.css
+exports: null
